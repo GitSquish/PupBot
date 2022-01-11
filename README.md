@@ -1,1 +1,1 @@
-# PupBot
+# PuppSnKrBot
